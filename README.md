@@ -6,7 +6,7 @@ If you want to get stuck somehow, this code is for you.
 ## How to use?
 
 First of all, you must have downloaded **node.js** , if you haven't downloaded it, you can download it by [clicking here] (https://nodejs.org/).
-Then you need to open a new folder and open a file named ** index.js ** inside it.
+Then you need to open a new folder and open a file named **index.js** inside it.
 Click *Windows + Shift + Right* Click and open Powershell or CMD window. Then type **npm init**.
 Just type **node index.js** in the entry point and skip the rest.
 Open the **index.js** file and paste the latest version code I gave in the project.
