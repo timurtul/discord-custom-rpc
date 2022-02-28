@@ -7,9 +7,9 @@ activity : {
 details : "main",
 assets : {
 large_image : "photo_name",
-large_text : "gance" 
+large_text : "Timur Tül" 
 },
-buttons : [{label : "DiscordPanel" , url : "https://discordpanel.com"},{label : "Github",url : "https://github.com/thegance"}]
+buttons : [{label : "DiscordPanel" , url : "https://wajex.net"},{label : "Github",url : "https://github.com/timurtul"}]
 }
 })
 })
